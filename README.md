@@ -19,8 +19,8 @@
 <div align="center">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zer0deck&theme=nord_bright&hide_border=true)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zer0deck&theme=nord_bright&hide_border=true)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zer0deck&theme=nord_bright&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zer0deck&theme=nord_bright&hide_border=true&exclude=Jupyter%20Notebook)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zer0deck&theme=nord_bright&hide_border=true&exclude=Jupyter%20Notebook)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zer0deck&theme=nord_bright&hide_border=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zer0deck&theme=nord_bright&hide_border=true)
 
